@@ -201,7 +201,7 @@ if divisor != 0 and (10 / divisor > 1):    # деление на 0 не прои
 
 ```python
 True or False and False  # эквивалент True or (False and False) -> True
-not True == False        # эквивалент not (True == False) -> not True -> False
+not True == False        # эквивалент not (True == False) -> not False -> True
 ```
 
 При смешивании нескольких операторов в одном выражении для читаемости
