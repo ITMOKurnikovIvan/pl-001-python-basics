@@ -133,7 +133,6 @@ print(squares_tuple)            # (1, 4, 9, 16, 25)
 
 ## Источники
 
-- [Python documentation. The Python Language Reference — 6.2.3. Parenthesized forms](https://docs.python.org/3/reference/expressions.html#parenthesized-forms);
-- [Python documentation. The Python Tutorial — 5.3. Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences);
-- [Python documentation. Built-in Functions — tuple()](https://docs.python.org/3/library/functions.html#func-tuple);
-- [Python documentation. The Python Language Reference — 6.2.8. Generator expressions](https://docs.python.org/3/reference/expressions.html#generator-expressions).
+- [Python documentation. The Python Language Reference — Parenthesized forms](https://docs.python.org/3/reference/expressions.html#parenthesized-forms);
+- [Python documentation. The Python Tutorial — Tuples and Sequences](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences);
+- [Python documentation. Built-in Functions — tuple()](https://docs.python.org/3/library/functions.html#func-tuple).
